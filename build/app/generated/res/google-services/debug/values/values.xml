@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1060932565761-5eoapmuo2tsq83guoke1qq5tne8h7utt.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://smartadev-768aa.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1060932565761</string>
+    <string name="google_api_key" translatable="false">AIzaSyBiFjp_iuGJ1SLfYDAbCw3ZaUeFnSVxkQY</string>
+    <string name="google_app_id" translatable="false">1:1060932565761:android:1f708c90ff954d90b93900</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBiFjp_iuGJ1SLfYDAbCw3ZaUeFnSVxkQY</string>
+    <string name="google_storage_bucket" translatable="false">smartadev-768aa.appspot.com</string>
+    <string name="project_id" translatable="false">smartadev-768aa</string>
+</resources>
